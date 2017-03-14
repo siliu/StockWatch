@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Stock Watch</string>
+    <string name="stock_delete_yes">YES</string>
+    <string name="stock_delete_no">NO</string>
+</resources>
